@@ -36,7 +36,8 @@ A simple console-based two-player Tic Tac Toe game implemented in C++ using 2D a
 
 3.Problem-solving and basic game logic
 
-✅ Steps to add this to your GitHub repo:  
+✅ Steps to add this to your GitHub repo: 
+
 1.git add README.md
 
 2.git commit -m "Add README with features and rules"
