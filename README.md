@@ -38,6 +38,8 @@ A simple console-based two-player Tic Tac Toe game implemented in C++ using 2D a
 
 ✅ Steps to add this to your GitHub repo:  
 git add README.md
+
 git commit -m "Add README with features and rules"
+
 git push
 
