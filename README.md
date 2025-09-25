@@ -17,7 +17,7 @@ A simple console-based two-player Tic Tac Toe game implemented in C++ using 2D a
 5. If all cells are filled and no player has won, the game is a draw.
 
 ## How to Run
-1. Clone the repository:
+1.Clone the repository:
    git clone https://github.com/yourusername/TicTacToe_CPP.git
    
 2.Navigate to the project folder:
@@ -35,6 +35,7 @@ A simple console-based two-player Tic Tac Toe game implemented in C++ using 2D a
 2.Loops, conditional statements, arrays
 
 3.Problem-solving and basic game logic
+
 ✅ Steps to add this to your GitHub repo:  
 git add README.md
 git commit -m "Add README with features and rules"
